@@ -1,0 +1,16 @@
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\BLL\bin\Debug\BLL.exe.config
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\BLL\bin\Debug\BLL.exe
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\BLL\bin\Debug\BLL.pdb
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\BLL\obj\Debug\BLL.exe
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\BLL\obj\Debug\BLL.pdb
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\BLL\bin\Debug\BLL.exe.config
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\BLL\bin\Debug\BLL.exe
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\BLL\bin\Debug\BLL.pdb
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\BLL\obj\Debug\BLL.csproj.GenerateResource.Cache
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\BLL\obj\Debug\BLL.exe
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\BLL\obj\Debug\BLL.pdb
