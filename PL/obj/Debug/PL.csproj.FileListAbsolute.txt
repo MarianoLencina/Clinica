@@ -1,0 +1,42 @@
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\bin\Debug\PL.exe.config
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\bin\Debug\PL.exe
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\bin\Debug\PL.pdb
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.Menu.resources
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.Properties.Resources.resources
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.csproj.GenerateResource.Cache
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.exe
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.pdb
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.Turnos.resources
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.Especialidades.resources
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.Localidades.resources
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.Medicos.resources
+c:\users\fravega\documents\visual studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.Pacientes.resources
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\PL\bin\Debug\BLL.exe
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\PL\bin\Debug\BLL.pdb
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.Frm_login.resources
+C:\Users\fravega\Documents\Visual Studio 2015\Projects\TPC_Lencina\PL\obj\Debug\PL.TurnosMedicos.resources
+G:\ultimoTP_Lencina\TPC_Lencina\PL\bin\Debug\PL.exe.config
+G:\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.exe
+G:\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.pdb
+C:\Users\fravega\Desktop\ultimoTP_Lencina\TPC_Lencina\PL\bin\Debug\PL.exe.config
+C:\Users\fravega\Desktop\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.exe
+C:\Users\fravega\Desktop\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.pdb
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\bin\Debug\PL.exe.config
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.exe
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.pdb
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\bin\Debug\PL.exe
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\bin\Debug\PL.pdb
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\bin\Debug\BLL.exe
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\bin\Debug\BLL.pdb
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.Especialidades.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.Localidades.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.Frm_login.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.Medicos.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.Menu.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.Pacientes.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.Properties.Resources.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.Turnos.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.TurnosMedicos.resources
+C:\Users\fravega\Desktop\pro3\ultimoTP_Lencina\TPC_Lencina\PL\obj\Debug\PL.csproj.GenerateResource.Cache
